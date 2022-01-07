@@ -4,4 +4,4 @@ COPY templates/ /templates/
 COPY css/ /css/
 COPY deviform .
 EXPOSE 8080
-CMD ["./boazform"]
+CMD ["./deviform"]
